@@ -114,10 +114,10 @@ body {
     left: 20px;
     transform: rotate(-45deg);
     box-shadow: -5px 10px 90px rgb(255, 0, 0);
-    animation: NothingNew 0.8s linear infinite;
+    animation: Angrybrid 0.8s linear infinite;
   }
   
-  @keyframes NothingNew {
+  @keyframes Angrybrid {
     0% {
       transform: rotate(-45deg) scale(1.05);
     }
